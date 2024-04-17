@@ -13,3 +13,5 @@ download SoftPaq packages for your computer
 get the latest drivers for your computer
 
 Installing HP Image Assistant (HPIA)
+
+[<img src="https://github.com/Kumarjaswinder/hp-image-assistant/blob/main/hp%20assistent.jpg"/>]
